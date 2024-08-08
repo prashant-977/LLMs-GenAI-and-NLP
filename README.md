@@ -5,5 +5,4 @@ Following are some of the references I have taken:
 - Data Science Bookcamp By Leonard Apeltsin
 - https://www.deeplearning.ai/short-courses/
 - https://www.nvidia.com/en-us/learn/learning-path/generative-ai-llm/
-- Data Science Bookcamp By Leonard Apeltsin
 - Kaggle and other online competetion datasets
