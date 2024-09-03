@@ -1,15 +1,18 @@
 https://microsoft.github.io/generative-ai-for-beginners/#/01-introduction-to-genai/README?wt.mc_id=academic-105485-koreyst
 
-For companies working in multivariate time series data, RNNs can be very useful in finding out anomaly in calculation of certain measures due to lack of some signals in the system. RNNs can form a pattern, and hence based on the rule, correct calculation can be approximated. 
-Also, while some machineries are operated for profit making motive, maybe there is wear and tear in certain machinery parts. RNNs can perform time series prediction, anomaly detection and classification for further decision making. Hence, it can help in data preparation, feature engineering, model training and evaluation and finally integration and real-time processing. 
-After deciding about model usability, there could be several use cases using GPTs. 
-Key Use Cases:
-1.	Automated Documentation and Reporting: GPT can generate real-time reports on machinery operations, summarizing key metrics, trends, and any detected anomalies. It can also automate the creation of incident reports and maintenance logs, providing comprehensive records that support proactive upkeep.
-2.	Decision Support: GPT can offer real-time recommendations for machinery operations based on outputs from predictive models like RNNs. By analyzing operational data and historical trends, it can suggest adjustments to optimize performance and reduce potential wear on equipment.
-3.	Communication Automation: GPT can automate communication by drafting and sending emails to relevant stakeholders based on specific triggers. This includes alert notifications for potential issues, regular performance summaries, and external communications as needed.
-4.	Enhanced Human-Machine Interaction: GPT can act as a conversational interface, enabling operators to query the system, request specific reports, or seek explanations for decisions made by predictive models. It can also assist in training and onboarding by providing accessible answers to technical questions.
-5.	Compliance and Audit Support: GPT can help compile necessary reports for regulatory or internal audits, ensuring that all required information is accurately presented. It can also maintain detailed records of operational decisions, creating a clear audit trail.
-6.	Stakeholder Engagement and Public Relations: GPT can generate customized reports for different audiences, such as clients or internal stakeholders, highlighting relevant operational data. It can also assist in drafting public statements or communications regarding operations.
-7.	Cloud Integration: By integrating with cloud services, GPT can manage documents and communications efficiently, ensuring they are easily accessible and scalable across the organization.
-8.	Post-Event Analysis: After significant operational events, GPT can generate detailed analyses, summarizing what occurred, how the system responded, and what improvements can be made. It can also compile "lessons learned" documents to inform future decisions.
+### **RNNs for Multivariate Time Series Analysis**
 
+For companies working with multivariate time series data, Recurrent Neural Networks (RNNs) can be invaluable in identifying anomalies in calculations caused by missing signals. RNNs can establish patterns and use these patterns to approximate correct calculations.
+
+In addition to anomaly detection, RNNs can be applied to tasks like time series prediction and classification. This is particularly useful for machinery operated for profit, as RNNs can help identify potential wear and tear in components, leading to better decision-making.
+
+**Key Use Cases for GPTs in Multivariate Time Series Analysis:**
+
+1. **Automated Documentation and Reporting:** Generate real-time reports, summarize key metrics, and automate incident reports.
+2. **Decision Support:** Offer real-time recommendations based on predictive models like RNNs.
+3. **Communication Automation:** Automate email communication for alerts, summaries, and external communications.
+4. **Enhanced Human-Machine Interaction:** Provide a conversational interface for operators to query the system and request reports.
+5. **Compliance and Audit Support:** Compile reports, maintain records, and create audit trails.
+6. **Stakeholder Engagement and Public Relations:** Generate customized reports and assist in drafting communications.
+7. **Cloud Integration:** Manage documents and communications efficiently through cloud services.
+8. **Post-Event Analysis:** Generate detailed analyses and "lessons learned" documents.
