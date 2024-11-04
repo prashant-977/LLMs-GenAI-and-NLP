@@ -1,0 +1,33 @@
+Root/
+├── src/
+│   ├── RAGApp/                       # ASP.NET MVC Project (Backend API)
+│   │   ├── RAGApp.csproj             # Project file for the backend
+│   │   ├── Controllers/               # Controllers for handling file upload and query processing
+│   │   │   ├── FilesController.cs
+│   │   │   └── QueryController.cs
+│   │   ├── Models/
+│   │   │   ├── FileUploadModel.cs
+│   │   │   └── QueryModel.cs
+│   │   ├── Services/
+│   │   │   ├── InsightService.cs
+│   │   │   └── FileProcessingService.cs
+│   │   ├── Data/
+│   │   │   └── ApplicationDbContext.cs
+│   │   ├── wwwroot/
+│   │   ├── appsettings.json
+│   │   └── Program.cs
+│   ├── RAGApp.Frontend/              # Blazor Project (Frontend)
+│   │   ├── RAGApp.Frontend.csproj    # Project file for the frontend
+│   │   ├── Pages/
+│   │   │   ├── Index.razor
+│   │   │   └── Insights.razor
+│   │   ├── Services/
+│   │   │   └── ApiService.cs
+│   │   ├── Shared/
+│   │   │   └── UploadComponent.razor
+│   │   ├── wwwroot/
+│   │   ├── App.razor
+│   │   └── Program.cs
+├── Dockerfile
+├── docker-compose.yml
+└── README.md
